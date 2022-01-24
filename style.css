@@ -1,6 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
 body{
     font-family: 'Roboto', sans-serif;
     background-color: #E5E5E5;;
+}
+
+a{
+    color: #262626;
+    text-decoration: none;
 }
 
 .todo-topo{
