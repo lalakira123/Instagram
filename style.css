@@ -234,7 +234,7 @@ a{
     display: flex;
     flex-direction: column;
     background-color: #FFFFFF;
-    height: 749px;
+    width: 100%;
     margin-top: 24px;
     margin-bottom: 36px;
     border-radius: 3px;
@@ -271,16 +271,8 @@ a{
     font-size: 20px;
 }
 
-.foto{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.foto img{
-    background-color: darkgray;
-    width: 612px;
-    height: 612px;
+.imgPost{
+    width: 100%;
 }
 
 .interaçoes{
